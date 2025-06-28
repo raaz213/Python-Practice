@@ -1,0 +1,9 @@
+Mini Project 5: Student Grade Tracker
+Store students and their marks.
+
+Compute average and grade (A, B, C, etc.).
+
+Save to and read from a file.
+
+
+# Features: Dictionary, file I/O, formatting

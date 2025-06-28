@@ -1,0 +1,6 @@
+# Mini Project 4: BMI Calculator
+# Input weight & height.
+
+# Calculate BMI and show category.
+
+# Features: Input, math, formatted output

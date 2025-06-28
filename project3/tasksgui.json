@@ -1,0 +1,10 @@
+[
+    {
+        "task": "hw",
+        "completed": false
+    },
+    {
+        "task": "reading",
+        "completed": true
+    }
+]

@@ -1,9 +1,4 @@
-# Mini Project 2: Contact Book
-# Add, view, delete contacts.
 
-# Store data in a JSON file.
-
-# Features: Functions, JSON, file handling
 
 import json
 import os

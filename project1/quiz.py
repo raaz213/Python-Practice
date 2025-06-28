@@ -1,9 +1,4 @@
-# Mini Project 1: Quiz App (Console-Based)
-# Ask 5 questions.
-# Track score.
-# Show result at the end.
 
-# Features: Input, conditionals, score tracking
 def run_quiz():
     print("🎉 Welcome to the Python Quiz!\n")
     score = 0

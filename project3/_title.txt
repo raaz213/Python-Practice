@@ -1,0 +1,6 @@
+# Mini Project 3: To-Do List
+# Add, mark complete, view pending tasks.
+
+# Store in tasks.json.
+
+# Features: List, file handling, menu interface
