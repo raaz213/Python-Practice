@@ -1,1 +1,3 @@
-print('Hello world!')
+fruits = ['apple', 'banana', 'cherry']
+for fruit in fruits:
+    print(fruit)
